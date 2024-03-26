@@ -23,3 +23,4 @@
 [26-Mar-2024 00:42:22 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
 [26-Mar-2024 00:42:32 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
 [26-Mar-2024 00:43:14 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[26-Mar-2024 01:05:55 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
