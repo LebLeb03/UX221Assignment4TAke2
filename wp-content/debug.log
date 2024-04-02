@@ -96,3 +96,11 @@
 [01-Apr-2024 23:50:02 UTC] PHP Fatal error:  Out of memory (allocated 25165824) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/wpforms-lite/includes/class-process.php on line 1368
 [01-Apr-2024 23:50:11 UTC] PHP Fatal error:  Out of memory (allocated 25165824) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/wpforms-lite/includes/class-process.php on line 1367
 [01-Apr-2024 23:50:31 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[01-Apr-2024 23:56:41 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[01-Apr-2024 23:58:04 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[02-Apr-2024 00:02:33 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[02-Apr-2024 00:03:15 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[02-Apr-2024 00:06:53 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[02-Apr-2024 00:06:54 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[02-Apr-2024 00:12:41 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[02-Apr-2024 00:16:07 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
