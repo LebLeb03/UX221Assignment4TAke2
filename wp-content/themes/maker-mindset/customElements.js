@@ -12,3 +12,6 @@ class TheMakerMindset extends HTMLElement{
 	}
 }
 CustomElements.define("x-Maker",TheMakerMindset)
+
+
+
