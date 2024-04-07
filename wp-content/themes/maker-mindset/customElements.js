@@ -13,5 +13,12 @@ class TheMakerMindset extends HTMLElement{
 }
 CustomElements.define("x-Maker",TheMakerMindset)
 
+ class JoinNowButton extends HTMLElement {
+        constructor() {
+            super();
+            // Create a shadow root
+            this.attachShadow({ mode: 'open' });
 
-
+            // Define button text (default: 'Join Now')
+            this.buttonText = this.getAttribute('text') || 'Join Now';
+        }
