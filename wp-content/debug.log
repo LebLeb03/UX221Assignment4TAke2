@@ -108,3 +108,12 @@
 [06-Apr-2024 14:56:26 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
 [06-Apr-2024 14:56:31 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
 [07-Apr-2024 01:28:30 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[07-Apr-2024 02:36:15 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[07-Apr-2024 02:36:17 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[07-Apr-2024 02:39:03 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 49152 bytes) in /wordpress/wp-includes/class-wp-image-editor-gd.php on line 2
+[07-Apr-2024 02:40:32 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 49152 bytes) in /wordpress/wp-includes/class-wp-image-editor-gd.php on line 2
+[07-Apr-2024 02:41:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 49152 bytes) in /wordpress/wp-includes/class-wp-image-editor-gd.php on line 2
+[07-Apr-2024 02:42:33 UTC] PHP Fatal error:  Out of memory (allocated 233439232) (tried to allocate 49152 bytes) in /wordpress/wp-includes/class-wp-image-editor-gd.php on line 2
+[07-Apr-2024 02:43:07 UTC] PHP Fatal error:  Out of memory (allocated 125829120) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/wpforms-lite/src/Lite/Admin/Education/LiteConnect.php on line 41
+[07-Apr-2024 02:43:07 UTC] PHP Fatal error:  Out of memory (allocated 75497472) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/wpforms-lite/src/Lite/Admin/Education/LiteConnect.php on line 41
+[07-Apr-2024 02:44:06 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
